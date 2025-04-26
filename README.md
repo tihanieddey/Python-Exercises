@@ -25,12 +25,10 @@ This is the continuation of my Python practice journey. 📈
 
 In this second notebook, I focused on:
 
-- More complex conditional logic
-- Working with multiple conditions (AND, OR)
-- Classifying triangles based on sides
-- Time-based greetings
-- Identifying triangle types (Equilateral, Isosceles, Scalene)
-- Further strengthening understanding of `if-elif-else` statements
+- Practicing more complex conditional statements
+- Applying logical operators (AND, OR)
+- Solving beginner-level real-world problems using Python
+- Strengthening problem-solving and critical thinking skills
 
 ## 📓 Notebook
 
