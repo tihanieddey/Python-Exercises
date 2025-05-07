@@ -43,4 +43,32 @@ You can open this notebook using:
 
 ---
 
+# Python 103 Exercises
+
+This notebook is part of a learning series where I practice and apply Python programming through small challenges and logic-based problems. 🧠🐍
+
+## 🚀 Topics Covered
+
+- **Custom password validation**
+- **Generating random passwords (Weak, Moderate, Strong)**
+- **Binary operations**
+  - Convert decimal to binary
+  - Bitwise AND `&`, right shift `>>`, etc.
+- **List validation and duplication check**
+- **Digit and character operations**
+  - Sum of digits
+  - Count vowels
+  - Detect data types in list
+- **Patterns using loops**
+  - Triangle and staircase patterns
+- **Mathematical logic**
+  - Armstrong numbers
+  - Adam numbers
+  - Distance between 2D points
+
+## 📓 Notebook
+
+You can view the notebook here:  
+[Python103.ipynb](https://github.com/tihanieddey/Python-Exercises/blob/main/Python103.ipynb)
+
 ✨ Feel free to explore, practice, and learn together! 🚀
