@@ -34,15 +34,6 @@ In this second notebook, I focused on:
 
 You can view the notebook here: [Python102.ipynb](Python102.ipynb)
 
-## 🔧 How to Run
-
-You can open this notebook using:
-- [Google Colab](https://colab.research.google.com/)
-- [Jupyter Notebook](https://jupyter.org/)
-- Any IDE that supports `.ipynb` files like VS Code
-
----
-
 # Python 103 Exercises
 
 This notebook is part of a learning series where I practice and apply Python programming through small challenges and logic-based problems. 🧠🐍
@@ -70,5 +61,14 @@ This notebook is part of a learning series where I practice and apply Python pro
 
 You can view the notebook here:  
 [Python103.ipynb](https://github.com/tihanieddey/Python-Exercises/blob/main/Python103.ipynb)
+
+## 🔧 How to Run
+
+You can open this notebook using:
+- [Google Colab](https://colab.research.google.com/)
+- [Jupyter Notebook](https://jupyter.org/)
+- Any IDE that supports `.ipynb` files like VS Code
+
+---
 
 ✨ Feel free to explore, practice, and learn together! 🚀
