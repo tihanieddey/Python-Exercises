@@ -41,7 +41,6 @@ This notebook is part of a learning series where I practice and apply Python pro
 ## 🚀 Topics Covered
 
 - **Custom password validation**
-- **Generating random passwords (Weak, Moderate, Strong)**
 - **Binary operations**
   - Convert decimal to binary
   - Bitwise AND `&`, right shift `>>`, etc.
